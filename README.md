@@ -1,5 +1,7 @@
 # HowTo in Programming
 
+To jump to the sections - use the hamburger menu in the top left corner.
+
 ## Bash
 
 ### Use default value
